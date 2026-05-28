@@ -62,8 +62,8 @@ Trading Performance Analytics_Project/
 ├── docs/
 │   ├── PROJECT_SUMMARY.md
 │
-├── powerbi_guidance/
-│   └── DAX_Measures.txt
+├── powerbi/
+│   └── powerbi_dasboard
 │
 └── README.md
 ```
